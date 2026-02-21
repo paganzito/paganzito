@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 
-![Super Mario Pixel GIF by dan bahia dan](https://github.com/user-attachments/assets/33b66da3-ccbd-4865-9356-704786ff9a68)
+
+
+
+   ![Super Mario Pixel GIF by dan bahia dan](https://github.com/user-attachments/assets/33b66da3-ccbd-4865-9356-704786ff9a68)
 
 
 I'm a Computer Engineering student at the Universidad Politécnica de Madrid with a strong interest in the world of quantum technologies.
