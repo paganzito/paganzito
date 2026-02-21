@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 
+![Super Mario Pixel GIF by dan bahia dan](https://github.com/user-attachments/assets/33b66da3-ccbd-4865-9356-704786ff9a68)
+
+
 I'm a Computer Engineering student at the Universidad Politécnica de Madrid with a strong interest in the world of quantum technologies.
 
 My academic journey is focused on building a solid foundation in computer science, mathematics, and engineering principles, while exploring the emerging field of quantum computing and quantum information. I’m particularly interested in how classical and quantum systems intersect, and how next-generation technologies can transform computation, cybersecurity, and scientific research.
